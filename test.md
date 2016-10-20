@@ -9,3 +9,4 @@ Some code:
 	std::cout << " hello world !" << std::endl ;
 
 
+### if this file does not display correctly you might want to install a markdown viewer plugin in your browser ...
